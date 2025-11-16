@@ -112,7 +112,7 @@
 
 
 
-## multi-agent-validating
+## multi-agents validation
 
 [1] C.-M. Chan et al., “ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate,” Aug. 15, 2023, arXiv: arXiv:2308.07201. doi: 10.48550/arXiv.2308.07201.
 
